@@ -1,1 +1,1 @@
-https://gybranam-proyek-analisis-data-dicoding-dashboard-mx4eeg.streamlit.app/
+https://gybranam-analisis-data-dashboard-clo1qw.streamlit.app/
